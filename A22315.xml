@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to vnderstand aswell by the humble supplication and petition of our poore distressed subiects Amy Lynsteed, widdow, the late wife of William Lynsteed &amp; Ioan the wife of Robert Morse ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22315</idno>
+            <idno type="STC">STC 8721</idno>
+            <idno type="STC">ESTC S3807</idno>
+            <idno type="EEBO-CITATION">33151013</idno>
+            <idno type="OCLC">ocm 33151013</idno>
+            <idno type="VID">28866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler  archbishops, bishops, archdeacons, deanes and their officials ... greeting  : whereas wee are credibly giuen to vnderstand aswell by the humble supplication and petition of our poore distressed subiects Amy Lynsteed, widdow, the late wife of William Lynsteed &amp; Ioan the wife of Robert Morse ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward All-de,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collections on behalf of Amy Lynsteed and Joan Morse, whose husbands were killed and captured, respectively, by the Turks.</note>
+                  <note>Title and other title information from first 10 lines of text.</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>"Witnes our selfe at Westminster, the Fifth day of February, in the one and Twentieth yeare of our Raigne of England, France and Ireland. And of Scotland the Seauen and Fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lynsteed, Amy, fl. 1624.</term>
+               <term>Morse, Joan, fl. 1624.</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28866:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">2</hi> R</p>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>JAMES, By the grace of God, king of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+               <salute>TO ALL and ſinguler Archbiſhops, Biſhops, Archdea<g ref="char:EOLhyphen"/>cons, Deanes and their Officals, Parſons, Vicars, Curates, and to all Spi<g ref="char:EOLhyphen"/>rituall perſons. And alſo t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all Juſtices of Peace, Mayors, Sheriffes, Bai<g ref="char:EOLhyphen"/>liffes, Conſtables, Churchwardens, and Head-boroughes, And to all Officers of Citties, Boroughes, and Townes coporate, And to all other our Officers, Miniſters, and Subjects whatſoeuer they be, aſwell within Liberties as without, to whom theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>WHEREAS Wee are credibly giuen to vnderſtand, aſwell by the humble Supplication and Petition of our poore diſtreſſed Subjects <hi>Amy Lynſteed</hi> Widow, the late wife of <hi>William Lynſteed,</hi> &amp; <hi>Ioane</hi> the wife of <hi>Robert Morſe,</hi> both of <hi>Shadwell</hi> in the Pariſh of <hi>Stepney,</hi> in the County of <hi>Middleſex</hi> Marrinors: As alſo by a Certificate vnder the hands of our true and loyall Subjects, <hi>Robert Salmon</hi> now Ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of the <hi>Trinity</hi> Houſe of <hi>Deptford Strand</hi> in our County of <hi>Kent,</hi> and others the Wardens and Aſſiſtants of the ſaid Houſe, being alſo ſubſcribed by the Churchwardens and other the Inhabitants of <hi>Stepney</hi> aforeſaid: That the ſaid <hi>William Lynſteed</hi> went Maſters Mate in the good Ship called the <hi>Prudence</hi> of <hi>London,</hi> whereof <hi>Iohn Cheſter</hi> was then Maſter, in his vnfortunate Voyage into the <hi>Straights,</hi> wherein the ſaid <hi>William Lynſteed</hi> aduenturing his whole eſtate of the value of Foure hundred pounds and vpwards, was with the ſaid Ship and all the Company in her in January, 1621. ſpoyled and burnt by thoſe miſcreant Sea robbers the Turkes, whereby our ſaid poore Subiect <hi>Amy Lynſteed</hi> did not onely looſe her Husbands life, but alſo all their meanes which her ſaid Husband had with him in the ſaid Ship: And that the ſaid <hi>Robert Morſe</hi> being Boatſwaine of the good Ship called the <hi>Anne</hi> of North <hi>Yarmouth,</hi> whereof <hi>Abraham Wheeler</hi> was then Maſter and bound on a Voyage for <hi>Lisbone,</hi> was about the moneth of February, 1622. taken in the ſaid Ship by thoſe cruell Infidels the Turkes, whereby the ſaid <hi>Robert Morſe</hi> was not onely depriued of all his eſtate that he then aduentured with him in that Ship, amounting to the ſumme of Two hundred pounds and vpwards, but alſo of his liberty being carryed to <hi>Argier,</hi> where he is de<g ref="char:EOLhyphen"/>teyned a Captiue in great ſlauery and miſery amongſt thoſe inhumane Creatures; from which place of Bondage the ſaid <hi>Robert Morſe</hi> cannot be releaſed without the payment of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>at ſumme for his Ranſome, which his poore wife hauing a great charge of ſmall Children is no wayes able to procute, ſo that the poore Captine hauing already indured intollerable miſery vnder thoſe unmercifull Pagans, is likely there to end his wofull dayes and to leaue his Wife and ſmall Child for to the wide world, and that the ſaid poore Widdow <hi>Amy Lynſteed</hi> is vtterly impoueriſhed and diſabled to releeue her ſelfe and her charge of ſmall Children, which her ſaid deceaſed Husband left vpon her hands, ſo that they are all expoſed to extreame want and much ſorrow, vnleſſe ſome charitable courſe be forthwith taken for their reliefs herein, whoſe moſt lamentable and deiected e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate is much to be pittyed. And therefore we haue thought good to commend the ſame to the charitable comſideration of all our louing &amp; well diſpoſed Subjects, aſwell within our foreſaid County of <hi>Middleſex,</hi> as in certaine other Counties and places hereafter mentioned, not doubting but that all good Chriſtians well weighing the premiſes, will be ready and willing as feeling members one of anothers miſeries, to extend their liberall and chearefull contributions towards the reliefe and comfort of poore diſtreſſed Chriſtians in this their great neceſſity.</p>
+            <p>KNOWE yee therefore, that of Our eſpeciall Grace and Princely compaſſion, Wée haue giuen and granted, and by theſe our Letters Patents doe giue and graunt vnto our ſaid poore Subiects <hi>Amy Linſteed,</hi> and <hi>Ioane Morſe,</hi> and to their Deputy and Deputies, the bearer or bearers hereof, full power, Licence and Authority, to aske, gather, receiue and take the Almes and charitable beneuolence of all our louing Subiects whatſoeuer, Inhabiting within our Citie of <hi>London,</hi> with the Suburbes and Liberties thereof, and in our Counties of <hi>Middle<g ref="char:EOLhyphen"/>ſex, Hertford,</hi> and <hi>Eſſex.</hi> And in all Townes corporate, Priuiledged places, Pariſhes, Villages, and in all other places whatſoeuer within our ſaid Counties, and not elſe where, for and towards the recouery of the ſaid Loſſes, the redeeming of the ſaid <hi>Robert Morſe</hi> from the Turkes, and the reliefe and maintenance of themſelues and Children.</p>
+            <p>WHEREFORE Wee will &amp; command you and euery of you, the High Conſtable of euery Hundred within any of our foreſaid Counties, that at ſuch time &amp; times as the ſaid <hi>Amy Lynſteed,</hi> and <hi>Ioane Morſe,</hi> or their Deputy or Deputies, the bearer or bearers hereof, ſhall come &amp; repaire vnto you or any of you, with theſe our Letters Patents vnder our great Seale of <hi>England,</hi> that foorthwith vpon ſight thereof, you receiue the Briefes of theſe our Letters Patents, and deliuer them or cauſe them to be deliuered to the Miniſter or one of the Churchwardens of euery Pariſh within your ſeuerall Hundreds, to be publiſhed by the ſaid Miniſter of euery ſuch Pariſh the next Sab<g ref="char:EOLhyphen"/>both day after the receipt thereof if with conueniency if may be done, otherwiſe the next Sabboth day following, without further delay, And you the ſaid Parſons, Vicars, and Curats, for the better ſtirring vp or a charitable deuotion, deliberately to publiſh and declare the Te<g ref="char:EOLhyphen"/>nor of theſe our Letters Patents or the Briefe thereof, in your Pariſh Church vnto all our louing Subjécts within the time before prefix<g ref="char:EOLhyphen"/>ed, and that when no other Collection ſhall be made for any other perſon at all. Exhorting and perſwading them to extend their liberall con<g ref="char:EOLhyphen"/>tributions in ſo good and charitable a deed. And you the Churchwardens of euery Pariſh where ſuch Collections are to be made (as afore<g ref="char:EOLhyphen"/>ſaid) ſhall immediately after the publiſhing of theſe our Letters Patents or the Briefe thereof, carefully Collect and gather from ſeate to ſeate the charitable beneuolence of all our louing Subjects, as well Strangers as others, And what ſhall be by you ſo gathered, to be by the Miniſter and your ſelues endorſed on the backſide of the Briefe, vnder your hands in words at length and not in figures, and the ſumme or ſummes of money ſo gathered and endorſed together with the Briefes, you the Churchwardens or petty Conſtable of euery Pariſh within our foreſaid Counties, aſwell in euery City and Towne corporate as elſe where, ſhall returns vnto the next High Conſtable within one weeke after the collection. And you the High Conſtables, to deliuer all and euery the ſaid monyes and Briefes vnto our ſaid poore Subjects <hi>Amy Lynſteed,</hi> and <hi>Ioane Morſe,</hi> and to their Deputy or Deputies, the bearer or bearer hereof, when as thereunto you ſhall be required. And laſtly, whereas we are enforined of the great abuſe which is now crept in amongſt theſe poore peole, who ſell their Licences vnto ſome other perſon, whereby mens charity goeth not the right way, but vnto ſuch as deferne it leaſt, That from henceforth our will &amp; pleaſure is, that if it may appeare vnto you, or any of you that the ſaid <hi>Amy Lynſteed,</hi> &amp; <hi>Ioane Morſe,</hi> have contracted any bargain, or made, or ſhall make ſale of theſe our Letters Patents, whereby benefit ſhall paſſe from them to any other perſon, That thereupon theſe our Letters Patents ſhalbe voide and of none effect. Any Statute, Law, Ordinance, or Prouiſion heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>In witneſſe whereof, Wee haue cauſed theſe our Letters to be made Patents for the ſpace of one whole yeare, next after the date here<g ref="char:EOLhyphen"/>of to endure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter</hi> 
+                  <date>the Fifth day or February, in the one and Twentieth yeare of our Raigne of <hi>England, France,</hi> And <hi>Ireland.</hi> And of <hi>Scotland</hi> the Seauen and Fiftieth.</date>
+               </dateline>
+               <signed>STEVVARD.</signed>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Edward Allde.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
